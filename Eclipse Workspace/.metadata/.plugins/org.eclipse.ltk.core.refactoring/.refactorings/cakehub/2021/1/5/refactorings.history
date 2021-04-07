@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;cakehub/WebContent/deliveryPartner.jsp&apos; to &apos;deliveryPartnerReg.jsp&apos;" description="Rename resource &apos;deliveryPartner.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/deliveryPartner.jsp" name="deliveryPartnerReg.jsp" stamp="1611996390923" updateReferences="true"/>
+</session>

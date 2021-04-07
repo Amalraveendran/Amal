@@ -1,0 +1,9 @@
+127.0.0.1 - - [02/Feb/2021:09:24:11 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [02/Feb/2021:09:24:18 +0530] "GET /cakehub/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [02/Feb/2021:09:24:56 +0530] "GET /cakehub/Orders?name=Amal+C+R&email=amalcr57%40gmail.com&phone=08921376368&date=2021-02-02&time=09%3A24&nos=2&location=chembath+house&message= HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Feb/2021:09:25:08 +0530] "GET /cakehub/admin-.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Feb/2021:09:25:08 +0530] "GET /cakehub/login.jsp HTTP/1.1" 200 2635
+0:0:0:0:0:0:0:1 - - [02/Feb/2021:09:25:19 +0530] "GET /cakehub/AdminLogin?uname=admin&pwd=pwd HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Feb/2021:09:25:19 +0530] "GET /cakehub/admin-.jsp HTTP/1.1" 200 2720
+0:0:0:0:0:0:0:1 - - [02/Feb/2021:09:25:40 +0530] "GET /cakehub/deliveryPartnerReg.jsp HTTP/1.1" 200 3637
+0:0:0:0:0:0:0:1 - - [02/Feb/2021:09:26:28 +0530] "GET /cakehub/ HTTP/1.1" 200 31878
